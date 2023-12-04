@@ -5,7 +5,7 @@ version = "0.1.0"
 edition = "2021"
 license-file = "LICENSE"
 repository = "https://github.com/ChocolateLoverRaj/aspect-fit"
-keywords = ["rectangle", "scale", "fit", "aspect", "ratio", "max"]
+keywords = ["rectangle", "scale", "fit", "aspect", "ratio"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 [dependencies]
